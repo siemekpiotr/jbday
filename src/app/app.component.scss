@@ -3,7 +3,7 @@
     h1 {
         padding-top: 80px;
         color: red;
-        font-size: 50px;
+        font-size: 45px;
         font-weight: bold;
         text-shadow: 2px 2px green;
         text-align: center;
@@ -81,7 +81,7 @@
     .scroll-down{
         padding-top: 100px;
         text-align: center;
-        font-size: 30px;
+        font-size: 27px;
         &__img{
             width: 100%;
             display: flex;
@@ -131,17 +131,18 @@
     .content{
         .like-container{
             &__txt{
-                font-size: 80px;
+                font-size: 60px;
             }
         }
         .point{
             text-align: center;
-            font-size: 40px;
-            padding-bottom: 250px;
+            font-size: 30px;
+            padding: 0 5px 250px 5px;
         }
         .poem{
             text-align: center;
-            font-size: 20px;
+            font-size: 15px;
+            padding: 0 5px 0 5px;
         }
         .gallery{
             display: flex;
